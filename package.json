@@ -1,0 +1,11 @@
+{
+  "name": "flixxit",
+  "version": "1.0.0",
+  "description": "This project is a Flixxit (Netflix clone) built using MERN stack and Firebase. It allows users to browse a selection of movies and TV shows, view details about each title, and watch trailers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
